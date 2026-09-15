@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="right" dir="rtl">
 
 🕷️ MnraPanel
@@ -93,3 +94,6 @@ https://your-domain.up.railway.app/mnra
 ❤️ ساخته شده توسط @Ikatme
 
 </div>
+=======
+# MPanel
+>>>>>>> 4d4d7007aefda9f56f7f649e38013cae2dee39ed
